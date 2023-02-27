@@ -1,4 +1,4 @@
-%%% Segmentation should be completed using VAMPIRE. SOFTWARE AVAILABLE UPON DEVELOPERS DEMAND
+%%% Segmentation should be completed using VAMPIRE. SOFTWARE AVAILABLE UPON DEVELOPERS REQUEST
 %% Load the data 
 %This model uses features that have been already computed from the images
 
@@ -43,4 +43,4 @@ likelihood_table = struct2table(likelihood_results);
 writetable(likelihood_table, 'Quality_score.txt');
 
 
-%%% Phenotype calculation should be completed using VAMPIRE. SOFTWARE AVAILABLE UPON DEVELOPERS DEMAND
+%%% Phenotype calculation should be completed using VAMPIRE. SOFTWARE AVAILABLE UPON DEVELOPERS REQUEST
